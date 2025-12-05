@@ -1,0 +1,1 @@
+tester la commande git rm
