@@ -1,4 +1,5 @@
 #include <stdio.h>
+//test pour le git
 int main(void)
 {
 	int somme, n_premiers_entiers, indice ;
