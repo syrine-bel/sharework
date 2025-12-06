@@ -1,4 +1,5 @@
 #include <stdio.h>
+//test pour la commande merge je suis dans la brache test
 //test pour le git
 int main(void)
 {
